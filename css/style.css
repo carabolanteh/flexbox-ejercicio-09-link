@@ -10,10 +10,6 @@ body{
     justify-content: center;
     background-color:  #f2f4f4 ;
 }
-.container, div, .main-aside,{
-    border: 1px solid black;
-
-}
 .container{
     width: 50vw;
     height: auto;
